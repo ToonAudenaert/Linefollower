@@ -7,17 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: esp32 CP2102 USB-C 38pin
 
-motors: 
+motors: N20 (600rpm)
 
-h-bridge:
+h-bridge: DRV8333
 
-sensors:
+sensors: 
 
-batteries:
+batteries: 2x18650 zonder veiligheid
 
-wireless communication:
+wireless communication: onboard Wifi esp32
 
 distance sensor - motors:
 
